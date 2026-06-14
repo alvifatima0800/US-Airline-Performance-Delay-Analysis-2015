@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-Every year, U.S. airlines operate millions of domestic flights â€” and a meaningful share of them run late or get cancelled, costing airlines money and frustrating travelers. This capstone project analyzes a full year (2015) of U.S. domestic flight data to uncover **why flights are delayed or cancelled**, **which airlines and airports perform best**, and **how time of day, day of week, and month affect delays**. The goal is to turn raw operational data into clear, data-backed recommendations for airlines and airport authorities.
+Every year, U.S. airlines operate millions of domestic flights and a meaningful share of them run late or get cancelled, costing airlines money and frustrating travelers. This capstone project analyzes a full year (2015) of U.S. domestic flight data to uncover **why flights are delayed or cancelled**, **which airlines and airports perform best**, and **how time of day, day of week, and month affect delays**. The goal is to turn raw operational data into clear, data-backed recommendations for airlines and airport authorities.
 
 ## Tools Used
 
